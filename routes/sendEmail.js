@@ -6,7 +6,7 @@ const outlookTransporter = nodemailer.createTransport({
     service: 'hotmail',
     auth: {
       user: 'tsuna-9111@hotmail.com', // your email
-      pass: 'rebornhorse1#' // your email password
+      pass: '11111111' // your email password
     }
   });
 
